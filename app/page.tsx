@@ -1,9 +1,7 @@
-import Header from "@/jai/header";
-
 export default function Home() {
   return (<div>
     <div>from header added</div>
-    <Header />
+    <div> layout me add ho gaya</div>
   </div>
   );
 }
