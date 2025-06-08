@@ -4,8 +4,8 @@ const rout = [{
     "path" : "/hii",
     "name" : "first route"
 },{
-    "path" : "/hii2",
-    "name" : "second route"
+    path : "/hii2",
+    name : "second route"
 }]
 export default function Header() {
   return (<div>
