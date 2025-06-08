@@ -1,9 +1,9 @@
 import Link from "next/link";
+import Header from "@/component/header";
 
 export default function Home() {
   return (<div>
-    <Link href={"/hii"} >hii</Link>
-    <Link href={"/hii2"} >hii2</Link>
+    <Header />
   </div>
   );
 }
